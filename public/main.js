@@ -1,2 +1,2 @@
 /* Placeholder for JS */
-document.write("Hi kkkkkkkkk")
+document.write("Hi, Lauren")
